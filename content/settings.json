@@ -1,5 +1,5 @@
 {
-  "domain": "www.qualityluna.com.br",
+  "domain": "honize.com",
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
@@ -10,7 +10,7 @@
   "logo": "/img/uploads/luna-marca.png",
   "name": "Quality luna",
   "short_name": "QualityLuna",
-  "lang": "pt_br",
+  "lang": "en_us",
   "currency": "BRL",
   "mini_logo": "/img/uploads/luna-marca.png",
   "favicon": "/img/uploads/logo3.png",
